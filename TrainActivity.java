@@ -267,7 +267,7 @@ public class TrainActivity extends AppCompatActivity {
             super.onPostExecute(ti);
 
 
-            String result = ti.toString();
+            String result = "json : "+ti.toString();
 
             textView.setText(result);
         }

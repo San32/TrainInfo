@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
 //    ArrayList<Item> list = null;
 
 
-
+    //첫 페이됨
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

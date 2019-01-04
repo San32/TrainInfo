@@ -1,5 +1,7 @@
 package com.example.kyj.traininfo;
 
+
+// class
 public class TrainInfo {
     String LineNo = null;
     String OrgNo= null; // 47
